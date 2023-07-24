@@ -18,5 +18,9 @@ class PageController extends Controller
         return view('service');
     }
 
+    public function price(){
+        return view('price');
+    }
+
     
 }

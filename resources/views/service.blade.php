@@ -62,10 +62,10 @@
                 <a class="nav-link" href="price.html">Pricing</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="login.html">Login</a>
               </li>
             </ul>
-            <div class="quote_btn-container">
+            {{-- <div class="quote_btn-container">
               <form class="form-inline">
                 <button class="btn   nav_search-btn" type="submit">
                   <i class="fa fa-search" aria-hidden="true"></i>
@@ -77,7 +77,7 @@
                   Call : +01 123455678990
                 </span>
               </a>
-            </div>
+            </div> --}}
           </div>
         </nav>
       </div>
