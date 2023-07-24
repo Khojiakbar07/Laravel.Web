@@ -24,6 +24,7 @@
 
   <!-- font awesome style -->
   <link href="css/font-awesome.min.css" rel="stylesheet" />
+  <script src="https://kit.fontawesome.com/7e82ddea42.js" crossorigin="anonymous"></script>
 
   <!-- Custom styles for this template -->
   <link href="css/style.css" rel="stylesheet" />
