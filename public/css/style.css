@@ -972,7 +972,7 @@ a:focus {
   color: #ffffff;
 }
 
-.info_section .info_links a img {
+.info_section .info_links a i {
   margin-right: 10px;
 }
 
@@ -1043,4 +1043,3 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
-/*# sourceMappingURL=style.css.map */

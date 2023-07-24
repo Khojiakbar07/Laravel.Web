@@ -13,7 +13,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Hostit</title>
+  <title>Web site</title>
 
 
   <!-- bootstrap core css -->
@@ -24,7 +24,7 @@
 
   <!-- font awesome style -->
   <link href="css/font-awesome.min.css" rel="stylesheet" />
-
+  <script src="https://kit.fontawesome.com/7e82ddea42.js" crossorigin="anonymous"></script>
   <!-- Custom styles for this template -->
   <link href="css/style.css" rel="stylesheet" />
   <!-- responsive style -->
@@ -40,7 +40,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
-            <span>Hostit</span>
+            <span>Tarteeb</span>
           </a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -277,23 +277,23 @@
             </h4>
             <div class="info_links">
               <a class="" href="index.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-solid fa-house" style="color: #ffffff;"></i>
                 Home
               </a>
               <a class="" href="about.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-regular fa-address-card" style="color: #ffffff;"></i>
                 About
               </a>
               <a class="active" href="service.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-solid fa-cart-shopping" style="color: #ffffff;"></i>
                 Services
               </a>
               <a class="" href="price.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-solid fa-money-check-dollar" style="color: #ffffff;"></i>
                 Pricing
               </a>
               <a class="" href="contact.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-solid fa-comments" style="color: #ffffff;"></i>
                 Contact Us
               </a>
             </div>
@@ -331,8 +331,7 @@
   <footer class="footer_section">
     <div class="container">
       <p>
-        &copy; <span id="displayYear"></span> All Rights Reserved By
-        <a href="https://html.design/">Free Html Templates</a>
+        &copy; <span id="displayYear"></span> Khojiakbar Zokirov</a>
       </p>
     </div>
   </footer>
