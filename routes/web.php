@@ -5,9 +5,9 @@ use App\Http\Controllers\UserController;
 use App\Http\Controllers\PageController;
 
 
-Route::get('/', function () {
-   return view('welcome');
-});
+// Route::get('/', function () {
+//    return view('welcome');
+// });
 
 //Route::get('/about', function () {
 //    return "Hi, about page";
@@ -33,5 +33,10 @@ Route::get('/', function () {
 // Route::get('/users/{user}', [UserController::class, 'show']);
 
 Route::get('/' , [PageController::class, 'main']);
+Route::get('/index.html' , [PageController::class, 'main']);
+Route::get('/about.html' , [PageController::class, 'about']);
+Route::get('/service.html' , [PageController::class, 'service']);
+
+
 
 

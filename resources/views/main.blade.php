@@ -40,7 +40,7 @@
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
-            <span>Hostit</span>
+            <span>Tarteeb</span>
           </a>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -62,10 +62,10 @@
                 <a class="nav-link" href="price.html">Pricing</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="contact.html">Login</a>
               </li>
             </ul>
-            <div class="quote_btn-container">
+            {{-- <div class="quote_btn-container">
               <form class="form-inline">
                 <button class="btn   nav_search-btn" type="submit">
                   <i class="fa fa-search" aria-hidden="true"></i>
@@ -77,7 +77,7 @@
                   Call : +01 123455678990
                 </span>
               </a>
-            </div>
+            </div> --}}
           </div>
         </nav>
       </div>
@@ -203,7 +203,7 @@
   </div>
 
   <!-- service section -->
-
+ 
   <section class="service_section layout_padding">
     <div class="container">
       <div class="heading_container heading_center">
@@ -286,7 +286,7 @@
               <p>
                 Generators on the Internet tend to repeat predefined chunks as necessary
               </p>
-              <a href="">
+              <a href=""> 
                 Read More
                 <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
 
