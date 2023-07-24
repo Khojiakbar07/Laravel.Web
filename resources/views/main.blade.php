@@ -748,24 +748,24 @@
               Links
             </h4>
             <div class="info_links">
-              <a class="active" href="index.html">
-                <img src="images/nav-bullet.png" alt="">
+              <a class="" href="index.html">
+                <i class="fa-solid fa-house" style="color: #ffffff;"></i>
                 Home
               </a>
               <a class="" href="about.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-regular fa-address-card" style="color: #ffffff;"></i>
                 About
               </a>
-              <a class="" href="service.html">
-                <img src="images/nav-bullet.png" alt="">
+              <a class="active" href="service.html">
+                <i class="fa-solid fa-cart-shopping" style="color: #ffffff;"></i>
                 Services
               </a>
               <a class="" href="price.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-solid fa-money-check-dollar" style="color: #ffffff;"></i>
                 Pricing
               </a>
               <a class="" href="contact.html">
-                <img src="images/nav-bullet.png" alt="">
+                <i class="fa-solid fa-comments" style="color: #ffffff;"></i>
                 Contact Us
               </a>
             </div>
