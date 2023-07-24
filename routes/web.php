@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\PageController;
 
 
 Route::get('/', function () {
@@ -27,8 +28,10 @@ Route::get('/', function () {
 //    return "This url is ". $url;
 //}));
 
-Route::get('/users' , [UserController::class, 'index']);
-Route::get('/users/create' , [UserController::class, 'create']);
-Route::get('/users/{user}', [UserController::class, 'show']);
+// Route::get('/users' , [UserController::class, 'index']);
+// Route::get('/users/create' , [UserController::class, 'create']);
+// Route::get('/users/{user}', [UserController::class, 'show']);
+
+Route::get('/' , [PageController::class, 'main']);
 
 
