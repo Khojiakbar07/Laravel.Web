@@ -62,7 +62,7 @@
                 <a class="nav-link" href="price.html">Pricing</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Login</a>
+                <a class="nav-link" href="https://tarteeb-uz.netlify.app/">Login</a>
               </li>
             </ul>
             {{-- <div class="quote_btn-container">

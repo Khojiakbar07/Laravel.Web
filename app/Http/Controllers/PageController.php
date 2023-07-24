@@ -21,6 +21,4 @@ class PageController extends Controller
     public function price(){
         return view('price');
     }
-
-    
 }
