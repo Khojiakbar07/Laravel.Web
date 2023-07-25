@@ -10,4 +10,8 @@ Route::get('/service.html' , [PageController::class, 'service']);
 Route::get('/price.html' , [PageController::class, 'price']);
 
 
+Route::get();
+
+
+
 
